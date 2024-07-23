@@ -1,0 +1,6 @@
+UserID: 1308406278 | Time: 2024-06-17 13:52:24.340636 | Command: /bgmi | Target: 52.172.102.48 | Port: 24440 | Time: 180
+Username: @Eternal_Spiky
+Target: 52.172.102.48
+Port: 24440
+Time: 180
+
